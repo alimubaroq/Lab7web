@@ -1,0 +1,26 @@
+DEBUG - 2025-07-05 09:22:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 09:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 09:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 09:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 11:17:20 --> POST request received
+DEBUG - 2025-07-05 11:17:20 --> Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryyxBmjYyYS3xLKJDL
+DEBUG - 2025-07-05 11:17:20 --> POST data: {"judul":"Pengaruh VAR dalam Sepak Bola Modern","isi":"Penggunaan teknologi VAR (Video Assistant Referee) dalam sepak bola modern menuai pro dan kontra, sebab meskipun membantu wasit membuat keputusan lebih akurat, sering kali proses pengecekan VAR dianggap mengganggu ritme permainan dan memicu perdebatan panjang.","status":"1"}
+DEBUG - 2025-07-05 11:17:20 --> Form data: {"judul":"Pengaruh VAR dalam Sepak Bola Modern","isi":"Penggunaan teknologi VAR (Video Assistant Referee) dalam sepak bola modern menuai pro dan kontra, sebab meskipun membantu wasit membuat keputusan lebih akurat, sering kali proses pengecekan VAR dianggap mengganggu ritme permainan dan memicu perdebatan panjang.","slug":"pengaruh-var-dalam-sepak-bola-modern","status":"1","created_at":"2025-07-05 11:17:20","updated_at":"2025-07-05 11:17:20"}
+DEBUG - 2025-07-05 11:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 11:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 11:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 11:55:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:49:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:49:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 12:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 13:06:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-07-05 14:00:13 --> POST request received
+DEBUG - 2025-07-05 14:00:13 --> Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryXGeCqiyCY8aqRJlN
+DEBUG - 2025-07-05 14:00:13 --> POST data: {"judul":"Kecerdasan Buatan Semakin Canggih","isi":"Perkembangan kecerdasan buatan atau artificial intelligence (AI) kini semakin canggih, membantu manusia dalam berbagai bidang mulai dari kesehatan, bisnis, hingga hiburan, meskipun juga menimbulkan kekhawatiran tentang etika dan pengaruhnya terhadap lapangan kerja di masa depan.","status":"1"}
+DEBUG - 2025-07-05 14:00:13 --> Form data: {"judul":"Kecerdasan Buatan Semakin Canggih","isi":"Perkembangan kecerdasan buatan atau artificial intelligence (AI) kini semakin canggih, membantu manusia dalam berbagai bidang mulai dari kesehatan, bisnis, hingga hiburan, meskipun juga menimbulkan kekhawatiran tentang etika dan pengaruhnya terhadap lapangan kerja di masa depan.","slug":"kecerdasan-buatan-semakin-canggih","status":"1","created_at":"2025-07-05 14:00:13","updated_at":"2025-07-05 14:00:13"}
+DEBUG - 2025-07-05 14:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
